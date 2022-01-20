@@ -1,0 +1,36 @@
+.cards{
+    max-width: 100%;
+    margin: 1vh;
+}
+.trendingcards{
+    /*display: flex;*/
+    /*justify-content: center;*/
+    margin-top: 5vh;
+}
+
+.trendingcards2{
+    /*display: flex;*/
+    /*justify-content: center;*/
+}
+
+.picture{
+    height: 300px;
+}
+
+.card{
+    border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.text{
+    margin: 2vh;
+    margin-left: 20vh;
+}
+
+p{
+    margin-left: 5vh;
+}
+
+.imagetop{
+    display: flex;
+    justify-content: center;
+}
